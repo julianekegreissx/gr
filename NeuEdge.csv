@@ -1,0 +1,29 @@
+from,to,weight
+DB,S1,1
+DB,S1E1,2
+DB,S1E2,2
+DB,S1E5,1
+DB,S1E6,1
+DB,S1S7,1
+DB,S1E8,2
+SL,S1,1
+SL,S1E3,1
+SL,S1E4,1
+JM,S1,1
+JM,S1E3,1
+JD,S1,1
+JD,S1E4,1
+JD,S1E7,1
+AT,S1,1
+AT,S1E5,1
+JNL,S1,1
+JNL,S1E6,1
+S1,Staffel 1,NA
+S1E1,Staffel 1 Episode 1,NA
+S1E2,Staffel 1 Episode 2,NA
+S1E3,Staffel 1 Episode 3,NA
+S1E4,Staffel 1 Episode 4,NA
+S1E5,Staffel 1 Episode 5,NA
+S1E6,Staffel 1 Episode 6,NA
+S1E7,Staffel 1 Episode 7,NA
+S1E8,Staffel 1 Episode 8,NA
